@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MaxStupnitskyi/react-router.git/static/css/main.ee569f91.chunk.css",
-    "main.js": "/MaxStupnitskyi/react-router.git/static/js/main.8c25afd2.chunk.js",
-    "main.js.map": "/MaxStupnitskyi/react-router.git/static/js/main.8c25afd2.chunk.js.map",
-    "runtime~main.js": "/MaxStupnitskyi/react-router.git/static/js/runtime~main.c891800e.js",
-    "runtime~main.js.map": "/MaxStupnitskyi/react-router.git/static/js/runtime~main.c891800e.js.map",
-    "static/js/2.287283f5.chunk.js": "/MaxStupnitskyi/react-router.git/static/js/2.287283f5.chunk.js",
-    "static/js/2.287283f5.chunk.js.map": "/MaxStupnitskyi/react-router.git/static/js/2.287283f5.chunk.js.map",
-    "index.html": "/MaxStupnitskyi/react-router.git/index.html",
-    "precache-manifest.84ba2522322e51a0786989546e8e9544.js": "/MaxStupnitskyi/react-router.git/precache-manifest.84ba2522322e51a0786989546e8e9544.js",
-    "service-worker.js": "/MaxStupnitskyi/react-router.git/service-worker.js",
-    "static/css/main.ee569f91.chunk.css.map": "/MaxStupnitskyi/react-router.git/static/css/main.ee569f91.chunk.css.map",
-    "static/media/App.css": "/MaxStupnitskyi/react-router.git/static/media/github-logo.76d344f0.svg"
+    "main.css": "/react-router/static/css/main.c1a413c4.chunk.css",
+    "main.js": "/react-router/static/js/main.613febe5.chunk.js",
+    "main.js.map": "/react-router/static/js/main.613febe5.chunk.js.map",
+    "runtime~main.js": "/react-router/static/js/runtime~main.fdc07815.js",
+    "runtime~main.js.map": "/react-router/static/js/runtime~main.fdc07815.js.map",
+    "static/js/2.287283f5.chunk.js": "/react-router/static/js/2.287283f5.chunk.js",
+    "static/js/2.287283f5.chunk.js.map": "/react-router/static/js/2.287283f5.chunk.js.map",
+    "index.html": "/react-router/index.html",
+    "precache-manifest.9d179a8b9b6a7a76168e98ebbfbfc998.js": "/react-router/precache-manifest.9d179a8b9b6a7a76168e98ebbfbfc998.js",
+    "service-worker.js": "/react-router/service-worker.js",
+    "static/css/main.c1a413c4.chunk.css.map": "/react-router/static/css/main.c1a413c4.chunk.css.map",
+    "static/media/App.css": "/react-router/static/media/github-logo.76d344f0.svg"
   }
 }
